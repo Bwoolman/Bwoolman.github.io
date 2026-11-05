@@ -6,6 +6,10 @@
 3. [Neuroergonomics](https://www.sciencedirect.com/topics/engineering/neuroergonomics)
 #### This page is currently a work in progress and should be read with caution.
 Why am I still working on the heading?
+<p align="center">
+     <img src="img/Me1" alt="BW" width="30%">
+</p>
+
 > I like turtles 🐢
 >
 Let's try a logo 
