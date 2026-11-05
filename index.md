@@ -9,5 +9,4 @@ Why am I still working on the heading?
 > I like turtles 🐢
 >
 Let's try a logo 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Human_brain_schematic.svg" 
-     alt="Brain schematic" width="300" >
+![Brain schematic](https://upload.wikimedia.org/wikipedia/commons/5/5c/Human_brain_schematic.svg)
