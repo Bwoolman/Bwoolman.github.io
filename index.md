@@ -6,4 +6,4 @@ Why am I still working on the heading?
 > I like turtles 🐢
 >
 Let's try a logo 
-! [Brain](https://stock.adobe.com/search?k=brain&asset_id=430432733)
+![Brain](https://stock.adobe.com/search?k=brain&asset_id=430432733.jpg)
